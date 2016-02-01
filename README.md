@@ -8,27 +8,28 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is complete:
 
-- [ ] User can view a list of movies currently playing in theaters from The Movie Database.
-- [ ] Poster images are loaded using the UIImageView category in the AFNetworking library.
-- [ ] User sees a loading state while waiting for the movies API.
-- [ ] User can pull to refresh the movie list.
+- [y] User can view a list of movies currently playing in theaters from The Movie Database.
+- [y] Poster images are loaded using the UIImageView category in the AFNetworking library.
+- [y] User sees a loading state while waiting for the movies API.
+- [y] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
-- [ ] User sees an error message when there's a networking error.
-- [ ] Movies are displayed using a CollectionView instead of a TableView.
-- [ ] User can search for a movie.
-- [ ] All images fade in as they are loading.
+- [y] User sees an error message when there's a networking error.
+- [y] Movies are displayed using a CollectionView instead of a TableView.
+- [y] User can search for a movie.
+- [y] All images fade in as they are loading.
 - [ ] Customize the UI.
 
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+- Tapping on the screen to put the keyboard away
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. The actual network request
+2. Distinguishing protocols, libraries, built-in functionality, storyboard + programming interaction
 
 ## Video Walkthrough 
 
@@ -44,4 +45,4 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Samee Khan]
