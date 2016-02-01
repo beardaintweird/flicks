@@ -42,6 +42,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- key value coding compliant errors
+- not understanding protocols
+- not understanding network requests
 
 ## License
 
