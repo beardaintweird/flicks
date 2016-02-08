@@ -59,9 +59,9 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can view movie details by tapping on a cell.
-- [ ] User can select from a tab bar for either **Now Playing** or **Top Rated** movies.
-- [ ] Customize the selection effect of the cell.
+- [Y] User can view movie details by tapping on a cell.
+- [Y] User can select from a tab bar for either **Now Playing** or **Top Rated** movies.
+- [Y] Customize the selection effect of the cell.
 
 The following **optional** features are implemented:
 
@@ -74,8 +74,8 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. The network request and why it wasn't calling properly 
+2. The "Could not cast value of type 'babyFlicks.CollectionViewController' to 'UINavigationController'" error
 
 ## Video Walkthrough 
 
@@ -88,6 +88,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+The network request wasn't calling properly. I stepped through the whole request with breakpoints. When it came to the block for pulling the data it just skipped it. The "Could not cast value of type 'babyFlicks.CollectionViewController' to 'UINavigationController'" error. I tried multiple fixes and couldn't get it to work. 
+
+My app was working, but a few errors inhibited me from completing it properly. 
+
 
 ## License
 
