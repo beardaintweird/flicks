@@ -91,7 +91,7 @@ Describe any challenges encountered while building the app.
 
 The network request wasn't calling properly. I stepped through the whole request with breakpoints. When it came to the block for pulling the data it just skipped it. The "Could not cast value of type 'babyFlicks.CollectionViewController' to 'UINavigationController'" error. I tried multiple fixes and couldn't get it to work. 
 
-My app was working, but a few errors inhibited me from completing it properly. 
+My app was working, but a few errors inhibited me from completing it properly.
 
 
 ## License
